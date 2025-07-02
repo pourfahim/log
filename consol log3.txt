@@ -1,0 +1,216 @@
+ TTS Service: Initialized with Groq TTS API
+ Browser speech synthesis is available as fallback
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ [AIModelToggle] Initialized with current model: gemini-2.0-flash-lite
+ [useAIService] Fetching API keys from Supabase
+ Clearing messages for new chat
+ Initializing new chat or index view
+ Checking message limit: Object
+ [useAIService] Fetching API keys from Supabase
+ Clearing messages for new chat
+ Stopping ARCX speech recognition
+ Scrolling to bottom after messages change
+ Executing scrollToBottom
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+ [useAIService] Found OpenRouter API keys in Supabase
+ [useAIService] Found Qwen-specific API keys in Supabase
+ [useAIService] Found A4F API keys in Supabase
+ [useAIService] Initializing AI service with keys from Supabase
+ [AiService] Starting initialization with keys: 3
+ [ServiceManager] Starting initialization
+index-Bvg3oO2i.js:651 [ServiceManager] Configured 6 OpenRouter API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Configured 2 Qwen-specific API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Configured 2 A4F API keys
+index-Bvg3oO2i.js:607 [Gemini 2.0 Flash Lite] Starting initialization
+index-Bvg3oO2i.js:607 [Gemini 2.0 Flash Lite] Using model: gemini-2.0-flash-lite
+index-Bvg3oO2i.js:607 [Gemini 2.0 Flash Lite] Successfully initialized with model gemini-2.0-flash-lite
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing Deepseek V3 via OpenRouter
+index-Bvg3oO2i.js:629 [Deepseek V3] Starting initialization
+index-Bvg3oO2i.js:629 [Deepseek V3] Successfully initialized with 6 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized Deepseek V3
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing Qwen 32B via OpenRouter with dedicated API keys
+index-Bvg3oO2i.js:629 [Qwen 32B] Starting initialization
+index-Bvg3oO2i.js:629 [Qwen 32B] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized Qwen 32B
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT-4.1 via A4F
+index-Bvg3oO2i.js:651 [GPT-4.1] Starting initialization
+index-Bvg3oO2i.js:651 [GPT-4.1] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT-4.1
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing Gemini 2.5 Pro via A4F
+index-Bvg3oO2i.js:651 [Gemini 2.5 Pro] Starting initialization
+index-Bvg3oO2i.js:651 [Gemini 2.5 Pro] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized Gemini 2.5 Pro
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT Image-1 via A4F
+index-Bvg3oO2i.js:651 [GPT Image-1] Starting initialization
+index-Bvg3oO2i.js:651 [GPT Image-1] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT Image-1
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT - O1 Mini via A4F
+index-Bvg3oO2i.js:651 [GPT - O1 Mini] Starting initialization
+index-Bvg3oO2i.js:651 [GPT - O1 Mini] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT - O1 Mini
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT - O3 via A4F
+index-Bvg3oO2i.js:651 [GPT - O3] Starting initialization
+index-Bvg3oO2i.js:651 [GPT - O3] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT - O3
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT-4 Turbo via A4F
+index-Bvg3oO2i.js:651 [GPT-4 Turbo] Starting initialization
+index-Bvg3oO2i.js:651 [GPT-4 Turbo] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT-4 Turbo
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing DALL-E 3 via A4F
+index-Bvg3oO2i.js:651 [DALL-E 3] Starting initialization
+index-Bvg3oO2i.js:651 [DALL-E 3] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized DALL-E 3
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized models: gemini-2.0-flash-lite, deepseek-v3, qwen-32b, a4f-gpt-4.1, a4f-gemini-2.5-pro, a4f-gpt-image-1, a4f-o1-mini, a4f-o3, a4f-gpt-4-turbo, a4f-dall-e-3
+index-Bvg3oO2i.js:651 [AiService] Successfully initialized
+index-Bvg3oO2i.js:731 [useAIService] AI service successfully initialized
+index-Bvg3oO2i.js:731 [useAIService] Found OpenRouter API keys in Supabase
+index-Bvg3oO2i.js:731 [useAIService] Found Qwen-specific API keys in Supabase
+index-Bvg3oO2i.js:731 [useAIService] Found A4F API keys in Supabase
+index-Bvg3oO2i.js:731 [useAIService] Initializing AI service with keys from Supabase
+index-Bvg3oO2i.js:651 [AiService] Starting initialization with keys: 3
+index-Bvg3oO2i.js:651 [ServiceManager] Starting initialization
+index-Bvg3oO2i.js:651 [ServiceManager] Configured 6 OpenRouter API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Configured 2 Qwen-specific API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Configured 2 A4F API keys
+index-Bvg3oO2i.js:607 [Gemini 2.0 Flash Lite] Starting initialization
+index-Bvg3oO2i.js:607 [Gemini 2.0 Flash Lite] Using model: gemini-2.0-flash-lite
+index-Bvg3oO2i.js:607 [Gemini 2.0 Flash Lite] Successfully initialized with model gemini-2.0-flash-lite
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing Deepseek V3 via OpenRouter
+index-Bvg3oO2i.js:629 [Deepseek V3] Starting initialization
+index-Bvg3oO2i.js:629 [Deepseek V3] Successfully initialized with 6 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized Deepseek V3
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing Qwen 32B via OpenRouter with dedicated API keys
+index-Bvg3oO2i.js:629 [Qwen 32B] Starting initialization
+index-Bvg3oO2i.js:629 [Qwen 32B] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized Qwen 32B
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT-4.1 via A4F
+index-Bvg3oO2i.js:651 [GPT-4.1] Starting initialization
+index-Bvg3oO2i.js:651 [GPT-4.1] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT-4.1
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing Gemini 2.5 Pro via A4F
+index-Bvg3oO2i.js:651 [Gemini 2.5 Pro] Starting initialization
+index-Bvg3oO2i.js:651 [Gemini 2.5 Pro] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized Gemini 2.5 Pro
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT Image-1 via A4F
+index-Bvg3oO2i.js:651 [GPT Image-1] Starting initialization
+index-Bvg3oO2i.js:651 [GPT Image-1] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT Image-1
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT - O1 Mini via A4F
+index-Bvg3oO2i.js:651 [GPT - O1 Mini] Starting initialization
+index-Bvg3oO2i.js:651 [GPT - O1 Mini] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT - O1 Mini
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT - O3 via A4F
+index-Bvg3oO2i.js:651 [GPT - O3] Starting initialization
+index-Bvg3oO2i.js:651 [GPT - O3] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT - O3
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing GPT-4 Turbo via A4F
+index-Bvg3oO2i.js:651 [GPT-4 Turbo] Starting initialization
+index-Bvg3oO2i.js:651 [GPT-4 Turbo] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized GPT-4 Turbo
+index-Bvg3oO2i.js:651 [ServiceManager] Initializing DALL-E 3 via A4F
+index-Bvg3oO2i.js:651 [DALL-E 3] Starting initialization
+index-Bvg3oO2i.js:651 [DALL-E 3] Successfully initialized with 2 valid API keys
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized DALL-E 3
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully initialized models: gemini-2.0-flash-lite, deepseek-v3, qwen-32b, a4f-gpt-4.1, a4f-gemini-2.5-pro, a4f-gpt-image-1, a4f-o1-mini, a4f-o3, a4f-gpt-4-turbo, a4f-dall-e-3
+index-Bvg3oO2i.js:651 [AiService] Successfully initialized
+index-Bvg3oO2i.js:731 [useAIService] AI service successfully initialized
+index-Bvg3oO2i.js:731 Stopping ARCX speech recognition
+index-Bvg3oO2i.js:731 Stopping ARCX speech recognition
+index-Bvg3oO2i.js:731 [useChatMessages] Optimized message handling: {content: 'tell me about todays BTC price and any paticular intersting news regarding the BTC chart today', messageCount: 0, searchType: undefined, userMessageOnly: false, hasContextSearchResults: false}
+index-Bvg3oO2i.js:731 Creating new conversation for new chat
+index-Bvg3oO2i.js:731 Creating new conversation for user: 591bf724-2726-431a-ba05-1750087bf428
+index-Bvg3oO2i.js:731 Scrolling to bottom after messages change
+index-Bvg3oO2i.js:731 Executing scrollToBottom
+index-Bvg3oO2i.js:72 @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+index-Bvg3oO2i.js:731 Created conversation: {id: 'de9b2a54-673b-470b-9efa-f79a35154624', title: 'New Chat', created_at: '2025-07-02T19:15:54.416781+00:00', user_id: '591bf724-2726-431a-ba05-1750087bf428', is_active: true}
+index-Bvg3oO2i.js:731 Creating message: {content: 'tell me about todays BTC price and any paticular intersting news regarding the BTC chart today', is_ai: false, user_id: '591bf724-2726-431a-ba05-1750087bf428', conversation_id: 'de9b2a54-673b-470b-9efa-f79a35154624', created_at: '2025-07-02T19:15:54.267Z'}
+index-Bvg3oO2i.js:731 Stopping ARCX speech recognition
+index-Bvg3oO2i.js:731 Loading messages for user: 591bf724-2726-431a-ba05-1750087bf428
+index-Bvg3oO2i.js:731 Fetching messages for user: 591bf724-2726-431a-ba05-1750087bf428 conversation: de9b2a54-673b-470b-9efa-f79a35154624
+index-Bvg3oO2i.js:731 Loading messages for user: 591bf724-2726-431a-ba05-1750087bf428
+index-Bvg3oO2i.js:731 Fetching messages for user: 591bf724-2726-431a-ba05-1750087bf428 conversation: de9b2a54-673b-470b-9efa-f79a35154624
+index-Bvg3oO2i.js:72 @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+index-Bvg3oO2i.js:72 @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+index-Bvg3oO2i.js:72 @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+index-Bvg3oO2i.js:72 @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+index-Bvg3oO2i.js:72 @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+index-Bvg3oO2i.js:731 Created message: {id: '18f8583d-48af-4616-a112-8b9320ed5bed', content: 'tell me about todays BTC price and any paticular intersting news regarding the BTC chart today', is_ai: false, created_at: '2025-07-02T19:15:54.267+00:00', user_id: '591bf724-2726-431a-ba05-1750087bf428', …}
+index-Bvg3oO2i.js:731 [useChatMessages] Created user message: 18f8583d-48af-4616-a112-8b9320ed5bed
+index-Bvg3oO2i.js:731 [useChatMessages] Generating AI response: {hasSearchResults: false, sourcesCount: 0}
+index-Bvg3oO2i.js:651 [AiService] Generating response using model: gemini-2.0-flash-lite
+index-Bvg3oO2i.js:653 [AiService] No search results provided, using standard response generation
+index-Bvg3oO2i.js:651 [ServiceManager] Starting generation with model: gemini-2.0-flash-lite
+index-Bvg3oO2i.js:651 [ServiceManager] Attempting to generate response with model: gemini-2.0-flash-lite
+index-Bvg3oO2i.js:607 [Gemini 2.0 Flash Lite] Processing prompt: tell me about todays BTC price and any paticular intersting news regarding the BTC chart today
+index-Bvg3oO2i.js:629 [Gemini 2.0 Flash Lite] Starting chat with history of 0 messages
+index-Bvg3oO2i.js:629 [Gemini 2.0 Flash Lite] Sending message to chat
+index-Bvg3oO2i.js:731 Scrolling to bottom after messages change
+index-Bvg3oO2i.js:731 Executing scrollToBottom
+index-Bvg3oO2i.js:731 Checking message limit: {messageCount: 1, limit: 50}
+index-Bvg3oO2i.js:731 Fetched messages: [{…}]
+index-Bvg3oO2i.js:731 Fetched messages: [{…}]
+index-Bvg3oO2i.js:731 Scrolling to bottom after messages change
+index-Bvg3oO2i.js:731 Executing scrollToBottom
+index-Bvg3oO2i.js:731 Fetched messages: [{…}]
+index-Bvg3oO2i.js:731 Fetched messages: [{…}]
+index-Bvg3oO2i.js:629 [Gemini 2.0 Flash Lite] Received response from chat
+index-Bvg3oO2i.js:651 [ServiceManager] Successfully generated response with model: gemini-2.0-flash-lite
+index-Bvg3oO2i.js:731 [useChatMessages] AI response generated successfully
+index-Bvg3oO2i.js:731 Creating message: {content: 'As of today, October 26, 2023, at 1:40 PM PDT, the…h and consult with a qualified financial advisor.', is_ai: true, user_id: '591bf724-2726-431a-ba05-1750087bf428', conversation_id: 'de9b2a54-673b-470b-9efa-f79a35154624', created_at: '2025-07-02T19:16:00.818Z'}
+index-Bvg3oO2i.js:72 @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+index-Bvg3oO2i.js:731 Created message: {id: '8d57dd63-f593-4870-a251-0baae6586930', content: 'As of today, October 26, 2023, at 1:40 PM PDT, the…h and consult with a qualified financial advisor.', is_ai: true, created_at: '2025-07-02T19:16:00.818+00:00', user_id: '591bf724-2726-431a-ba05-1750087bf428', …}
+index-Bvg3oO2i.js:731 [useChatMessages] Created AI response message: 8d57dd63-f593-4870-a251-0baae6586930
+index-Bvg3oO2i.js:731 Updating conversation title: {conversationId: 'de9b2a54-673b-470b-9efa-f79a35154624', title: 'tell me about todays BTC price and any paticular intersting news regarding the BTC chart today'}
+index-Bvg3oO2i.js:731 Starting typing animation for new message
+index-Bvg3oO2i.js:731 Scrolling to bottom after messages change
+index-Bvg3oO2i.js:731 Executing scrollToBottom
+index-Bvg3oO2i.js:731 Checking message limit: {messageCount: 2, limit: 50}
+index-Bvg3oO2i.js:731 Starting typing animation for new message
+index-Bvg3oO2i.js:72 @supabase/gotrue-js: Navigator LockManager returned a null lock when using #request without ifAvailable set to true, it appears this browser is not following the LockManager spec https://developer.mozilla.org/en-US/docs/Web/API/LockManager/request
+(anonymous) @ index-Bvg3oO2i.js:72
+index-Bvg3oO2i.js:731 Successfully updated conversation title
+index-Bvg3oO2i.js:731 Starting typing animation for new message
+index-Bvg3oO2i.js:731 Scrolling to bottom after messages change
+index-Bvg3oO2i.js:731 Executing scrollToBottom
+index-Bvg3oO2i.js:731 [ChatMessage] Typing complete for message: 8d57dd63-f593-4870-a251-0baae6586930
+index-Bvg3oO2i.js:731 [ChatContainer] Message completed: 8d57dd63-f593-4870-a251-0baae6586930
+index-Bvg3oO2i.js:731 Skipping animation for message: isComplete=true
